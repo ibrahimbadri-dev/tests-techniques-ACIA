@@ -1,2 +1,2 @@
-# tests-techniques-ACIA
-Ce répertoire (repository) constitue les artéfacts et les démarches des deux tests techniques octroyé par l'Agence canadienne d'inspection des aliments (ACIA/CFIA).
+# Tests techniques de l'Agence canadienne d'inspection des aliments (ACIA/CFIA)
+Dans le contexte de la quête d'un [stage industriel 1 en génie logiciel](https://www.etsmtl.ca/etudes/cours/sta106) pour la session d'hiver 2024, il a été requis d'achever un ensemble de deux épreuves techniques. Au cours de ces dernières, les compétences en matière de [base de données](https://github.com/ibrahimbadri-dev/tests-techniques-ACIA/tree/main/Test%20technique%201) et de [développement _FullStack_](https://github.com/ibrahimbadri-dev/tests-techniques-ACIA/tree/main/Test%20technique%202) ont fait l'objet d'une évaluation.   
