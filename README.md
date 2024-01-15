@@ -5,7 +5,10 @@ Dans le contexte de la quête d'un [stage industriel 1 en génie logiciel](https
 1. [Pour commencer](#Pour-commencer)
 2. [Prérequis](#Prérequis)
 3. [Licence](#Licence)
+
 ## Pour commencer
+Section visant à expliquer les moyens de télécharger le projet. 
+
 ## Prérequis
 ## Licence
 Ce projet est sous licence conformément à la [licence MIT](LICENSE).
